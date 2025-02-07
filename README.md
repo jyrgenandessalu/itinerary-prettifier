@@ -13,7 +13,7 @@
 
 ## Cloning the repository and building the applicaton
 
-- git clone https://gitea.kood.tech/jurgenandessalu/itinerary.git
+- git clone https://github.com/jyrgenandessalu/itinerary-prettifier.git
 - javac Prettifier.java
 
 ## Command to display usage, after cloning the repository
