@@ -1,0 +1,239 @@
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:29:14.843894300 ---
+
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:31:14.949574600 ---
+
+Hotan AirportHotan,ZWTN,HTN,"79.86489868164062, 37.03850173950195"
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:31:33.318458300 ---
+
+Hotan Airport,CN,Hotan,ZWTN,"79.86489868164062, 37.03850173950195"
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:31:56.922630500 ---
+
+Hotan Airport,CN,Hotan,ZWTN, ,"79.86489868164062, 37.03850173950195"
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:32:49.416551900 ---
+
+Hotan Airport,CN,
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:34:32.261420200 ---
+
+name,icao_code,iata_code,municipality,country
+Los Angeles International,KLAX,LAX,Los Angeles,USA
+O'Hare International,KORD,ORD,,USA  // Missing city name
+,EHAM,AMS,Amsterdam,Netherlands     // Missing airport name
+Heathrow,EGLL,LHR,London,           // Missing country
+Sydney Airport,YSSY,SYD,Sydney      // Missing a column (should be 6 columns)
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:35:01.470075400 ---
+
+Flight information: Los Angeles International Airport to Chicago.
+Flight information: Amsterdam Airport Schiphol to London.
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:37:36.400428600 ---
+
+Flight information: Los Angeles International Airport to Chicago.
+Flight information: Amsterdam Airport Schiphol to London.
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:39:11.784030900 ---
+
+Flight information: Los Angeles International Airport to Chicago.
+Flight information: Amsterdam Airport SchipholM to London.
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:39:39.050741300 ---
+
+name,icao_code,iata_code,municipality,country
+Los Angeles International,KLAX,LAX,Los Angeles,USA
+O'Hare International,KORD,ORD,,USA  // Missing municipality
+,SYD,SYD,Sydney,Australia          // Missing name
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T15:39:52.345839700 ---
+
+name,icao_code,iata_code,municipality,country
+Los Angeles International,KLAX,LAX,Los Angeles,USA
+O'Hare International,KORD,ORD,,USA
+,SYD,SYD,Sydney,Australia
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:23:54.484717800 ---
+
+1. 09 May 2022
+2. 07:18PM (-02:00)
+3. 02:54PM (+00:00)
+4. 03:30AM (+11:00)
+5. 03:09AM (+00:00)
+6. 04:08 (+13:00)
+7. 17:54 (+00:00)
+8. 15:29 (-11:00)
+9. 21:43 (+00:00)
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:24:46.637937300 ---
+
+
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:25:28.396273700 ---
+
+asdasd
+asdasd
+asdasd
+asdasd
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:26:12.298225500 ---
+
+Flight info: #Los Angeles International Airport to Chicago O'Hare International Airport 
+ Flight date: 15 Sep 2023
+
+Next flight: #Amsterdam Airport Schiphol to London Heathrow Airport 
+ Departure time: 10:00PM (+00:00)
+
+Layover: #John F Kennedy International Airport to Dubai International Airport 
+ Arrival time: 14:00 (+00:00)
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:26:27.819658100 ---
+
+Flight info: #Los Angeles International Airport to Chicago O'Hare International Airport 
+ Flight date: 15 Sep 2023
+Next flight: #Amsterdam Airport Schiphol to London Heathrow Airport 
+ Departure time: 10:00PM (+00:00)
+Layover: #John F Kennedy International Airport to Dubai International Airport 
+ Arrival time: 14:00 (+00:00)
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:27:04.376843300 ---
+
+Flight info: #Los Angeles International Airport to Chicago O'Hare International Airport 
+ Flight date: 15 Sep 2023
+
+Next flight: #Amsterdam Airport Schiphol to London Heathrow Airport 
+ Departure time: 10:00PM (+00:00)
+
+Layover: #John F Kennedy International Airport to Dubai International Airport 
+ Arrival time: 14:00 (+00:00)
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:29:39.072670200 ---
+
+Flight info: #Los Angeles International Airport to Chicago O'Hare International Airport 
+ Flight date: 15 Sep 2023
+
+Next flight: #Amsterdam Airport Schiphol to London Heathrow Airport 
+ Departure time: 10:00PM (+00:00)
+
+Layover: #John F Kennedy International Airport to Dubai International Airport 
+ Arrival time: 14:00 (+00:00)
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:32:38.709710100 ---
+
+Your flight departs from Hannover Airport, and your destination is Bremen Airport.
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:33:24.716099400 ---
+
+Flight info: #Los Angeles International Airport to Chicago O'Hare International Airport.
+Layover at New York.
+Departure from *#Amsterdam Airport Schiphol to London.
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:39:37.992431900 ---
+
+Flight info: ##LAX to #ORD.
+Layover at *#JFK.
+Departure from *##AMS to *#LHR.
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:46:40.180045600 ---
+
+Flight info: ##LAX to #ORD.
+Layover at *#JFK.
+Departure from *##AMS to *#LHR.
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:46:54.364236500 ---
+
+Girua Airport,PG,Popondetta,AYGR,PNP,"148.309005737, -8.80453968048"
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:47:17.759872400 ---
+
+Girua Airport,PG,Popondetta,AYGR,PNP,"148.309005737, -8.80453968048"
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:47:36.539661400 ---
+
+Girua Airport,PG,Popondetta,AYGR,PNP,"148.309005737, -8.80453968048"
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:47:59.362468 ---
+
+Honiara International Airport,SB,Honiara,AGGH,HIR,"160.05499267578, -9.4280004501343"
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:48:33.626797200 ---
+
+Flight info: #Los Angeles International Airport to Chicago O'Hare International Airport.
+Layover at New York.
+Departure from *#Amsterdam Airport Schiphol to London.
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:59:23.045689 ---
+
+Aasiaat Airport,GL,Aasiaat,BGAA,JEG,"-52.7846984863, 68.7218017578"
+Narsarsuaq Airport,GL,Narsarsuaq,BGBW,UAK,"-45.4259986877, 61.1604995728"
+---END OF ENTRY---
+
+Old content of ./output.txt:
+--- PROCESSED ENTRY: 2024-09-28T16:59:52.115262200 ---
+
+icao_code,name,municipality,iata_code,state,country
+LAX,Los Angeles International Airport,Los Angeles,LAX,CA,United States
+ORD,Chicago O'Hare International Airport,Chicago,ORD,IL,United States
+AMS,Amsterdam Airport Schiphol,Amsterdam,AMS,,Netherlands
+LHR,London Heathrow Airport,London,LHR,,United Kingdom
+JFK,John F Kennedy International Airport,New York,JFK,NY,United States
+DXB,Dubai International Airport,Dubai,DXB,,United Arab Emirates
+---END OF ENTRY---
+

@@ -1,0 +1,3 @@
+Flight info: ##LAX to #ORD.
+Layover at *#JFK.
+Departure from *##AMS to *#LHR.
